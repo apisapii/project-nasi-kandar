@@ -8,3 +8,7 @@ Sebuah website yang dapat digunakan untuk pemesanan wisata outbond
     - Melihat total dan harga pesanan
     - Konfirmasi pembayaran
     - Membuat bukti pembayaran
+## Customer
+    - Membuat akun
+    - Memilih paket
+    - Melakukan reservasi
