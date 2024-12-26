@@ -8,7 +8,7 @@
   </head>
   <body>
     <!-- Header -->
-     <?php include "header.php"; ?>
+    <?php include "header.php"; ?>
 <!-- End Header -->
 <div class="container-lg">
   <div class="row">
@@ -20,7 +20,7 @@
     <div class="col-lg-9 mt-2">
     <div class="card">
   <div class="card-header">
-    Home
+    Customer
   </div>
   <div class="card-body">
     <h5 class="card-title">Ini adalah bagian home</h5>
